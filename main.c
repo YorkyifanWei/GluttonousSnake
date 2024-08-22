@@ -7,7 +7,7 @@
 #include <conio.h>
 #include <windows.h>
 
-// define global variable
+// 定义全局变量，用于存储游戏状态和数据
 extern int blocks[40][40];
 extern SnakeCoord heads[3];
 extern GameModern modern;
