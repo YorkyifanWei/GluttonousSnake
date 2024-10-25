@@ -9,6 +9,9 @@
 .idea/**/dictionaries
 .idea/**/shelf
 
+# ReSharper Caches
+.idea/**/_ReSharper.Caches/*
+
 # AWS User-specific
 .idea/**/aws.xml
 
