@@ -10,7 +10,7 @@
 .idea/**/shelf
 
 # 将_ReSharper.Caches目录下的所有文件都忽略
-.idea/**/_ReSharper.Caches/
+_ReSharper.Caches/
 
 # AWS User-specific
 .idea/**/aws.xml
